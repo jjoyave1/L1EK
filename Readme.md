@@ -6,4 +6,4 @@ It's a like button.
 
 deployed link (dev): http://development.l1ek.divshot.io
 
-Thank you, Materialize.css, Angular.js, & jQuery.
+Thanks: Materialize.css, Waves, Angular.js, & jQuery.
